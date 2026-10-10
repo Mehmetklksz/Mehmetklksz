@@ -23,7 +23,8 @@ I'm a front-end development student based in Türkiye. I build web interfaces wi
 
 ## Tools
 
-- Linux — my development environment
+[![Linux](https://img.shields.io/badge/Linux-Development%20environment-6b7280?style=flat&logo=linux&logoColor=white)](#tools)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-Learning%20assistant-7c3aed?style=flat&logo=openai&logoColor=white)](#tools)
 
 ## Featured Projects
 
