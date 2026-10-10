@@ -1,23 +1,28 @@
 # Hi, I'm Mehmet 👋
 
-I'm studying front-end development and building web interfaces with HTML and CSS. I'm currently learning JavaScript and Next.js.
+I'm a front-end development student based in Türkiye. I build web interfaces with HTML and CSS, and I'm currently learning JavaScript and Next.js.
 
-## What I'm working on
+## Current Focus
 
-- Improving my front-end development skills
-- Practicing by building website interfaces
-- Learning JavaScript and Next.js
+- Improving my JavaScript fundamentals
+- Learning Next.js
+- Building and refining front-end projects
 
 ## Technologies
 
 ### Used in projects
+
 ![HTML, CSS, Tailwind CSS](https://skillicons.dev/icons?i=html,css,tailwind)
 
 ### Currently learning
+
 ![JavaScript, Next.js](https://skillicons.dev/icons?i=js,nextjs)
 
+## Tools
 
-## Featured projects
+- Linux — my development environment
+
+## Featured Projects
 
 - **Shop.Co** — Multi-page e-commerce interface
 - **Ecopodcast** — Podcast landing page concept
